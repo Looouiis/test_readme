@@ -4,7 +4,7 @@ You can set up the development environment using either of the following methods
     ```bash
     nix-shell
     ```
-        > **Note**: You should run all subsequent commands within this shell environment.
+        **Note**: You should run all subsequent commands within this shell environment.
 2.  **Alternative**: Manually install the packages listed in `shell.nix`.
 
 # Running the Project
